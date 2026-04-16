@@ -1,0 +1,14 @@
+{
+    "name": "wpx/karambit",
+    "config": {
+        "vendor-dir": "src/Dependencies"
+    },
+    "require": {
+        "jenssegers/blade": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WPX\\Karambit\\": "src/"
+        }
+    }
+}

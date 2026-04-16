@@ -1,0 +1,18 @@
+.krmbt_admin_form {
+    border: 1px dotted #000000;
+}
+
+.krmbt_settings_field {
+    border: 1px solid #FF0000;
+}
+
+.krmbt-log-viewer {
+    padding: 0, 5px, 0, 5px;
+    margin-bottom: 10px;
+
+    & #krmbt-log-content {
+        font-size: 11px;
+        background-color: #000;
+        color: #aaa;
+    }
+}
